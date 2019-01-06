@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements TimePickerDialog.
 
   public static final String TAG = "MainActivity";
 
-
+// sono in Refactoring
     private Handler mainHandler = new Handler();
 
     @Override
